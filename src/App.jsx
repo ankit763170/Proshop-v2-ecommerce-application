@@ -3,7 +3,7 @@ import { useState } from "react";
 function App() {
   return (
     <>
-      <div>hey this is good</div>
+      <h1>this is only for testing purpose</h1>{" "}
     </>
   );
 }
