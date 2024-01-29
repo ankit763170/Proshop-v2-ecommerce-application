@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Proshop Backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit763170/Proshop-v2-ecommerce-application.git"
+  },
+  "author": "Ankit jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankit763170/Proshop-v2-ecommerce-application/issues"
+  },
+  "homepage": "https://github.com/ankit763170/Proshop-v2-ecommerce-application#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3"
+  },
+  "devDependencies": {}
+}
